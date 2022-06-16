@@ -34,7 +34,7 @@ BODY {
 
 
 
-.name {
+#name {
     font-size: 3em;
     text-transform: uppercase;
     text-align: center;
