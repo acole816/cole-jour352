@@ -1,0 +1,70 @@
+#mainheader {
+    font-family: 'Stoke', serif;
+}
+
+#maintext {
+    font-family: 'Stoke', serif;
+}
+#navbartext {
+    font-family: 'Stoke', serif;
+}
+#subheader {
+    text-align: center;
+    font-family: 'Stoke', serif;
+}
+
+#text {
+    text-align: center;
+    font-family: 'Stoke', serif;
+}
+
+#image1 {
+    padding-top: 10px;
+    padding-bottom: 10px;
+    height: auto;
+    align-items: center;
+}
+
+#image2 {
+    padding-top: 10px;
+    padding-bottom: 10px;
+    height: auto;
+}
+
+
+#icon {
+    height: 3em;
+    width: 3em;
+    margin-top: 35px;
+    display: inline-flex;
+    margin-left: 45%;
+
+}
+
+#bottomheadings {
+    font-size: 1.5em;
+    text-align: center;
+    padding-top: 10px;
+    font-family: 'Stoke', serif;
+}
+
+#bottomtext {
+    font-size: 1em;
+    text-align: center;
+    padding-bottom: 80px;
+    font-family: 'Stoke', serif;
+}
+
+.row {
+    padding-bottom: 50px;
+}
+
+@media only screen and (max-width: 500px) {
+    #subheader {
+        padding-top: 50px;
+    }
+    #btn {
+        background-color: teal;
+    }
+}
+    
