@@ -32,10 +32,43 @@ BODY {
     display: inline;
 }
 
+#navbar {
+    z-index: 100000;
+    position: fixed;
+    top: 0px;
+    width: 50%;
+}
 
+.row {
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
+#waiter {
+    height: 350px;
+    width: 350px;
+    margin: auto;
+    display: inline;
+}
+
+#maryland {
+    height: 300px;
+    width: 300px;
+    margin: auto;
+    display: inline;
+}
+
+#collab {
+    height: 350px;
+    width: 350px;
+}
+
+#linkitems{
+    padding-left: 20px;
+    padding-right: 20px;
+}
 
 #name {
-    font-size: 3em;
+    font-size: 2em;
     text-transform: uppercase;
     text-align: center;
     color: #33485e;
