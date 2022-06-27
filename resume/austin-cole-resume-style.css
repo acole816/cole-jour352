@@ -1,0 +1,147 @@
+
+/*styles for my resume*/
+
+BODY {
+    font-family: 'Open Sans', arial, sans-serif;
+    font-size: 1em;
+    color:#444
+}
+
+
+
+#container {
+    width: 100%;
+    max-width: 1200px;
+    margin: 0 auto;
+    padding-bottom: 50px;
+}
+
+.description {
+    margin-top: 10px;
+    margin-bottom: 10px;
+    margin-left: 0px;
+    margin-right: 0px;
+}
+
+.menu {
+    padding: 0;
+    margin: 0;
+    text-align: center;
+}
+
+.menu li {
+    display: inline;
+}
+
+#navbar {
+    z-index: 100000;
+    position: fixed;
+    top: 0px;
+    width: 50%;
+}
+
+.row {
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
+#waiter {
+    height: 350px;
+    width: 350px;
+    margin: auto;
+    display: inline;
+}
+
+#maryland {
+    height: 300px;
+    width: 300px;
+    margin: auto;
+    display: inline;
+}
+
+#collab {
+    height: 350px;
+    width: 350px;
+}
+
+#linkitems{
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+#name {
+    font-size: 2em;
+    text-transform: uppercase;
+    text-align: center;
+    color: #33485e;
+    border-bottom: 1px solid #33485e;
+    width: 60%;
+    min-width: 300px;
+    margin: 0 auto
+}
+
+.sectionheader {
+    font-size: 1.5em;
+    text-transform: uppercase;
+    background-color: #33485e;
+    color: #fff;
+    margin-top: 20px;
+    margin-bottom: 10px;
+    margin-left: 0px;
+    margin-right: 0px;
+    width: 70%;
+    min-width: 300px;
+
+}
+
+#jobtitle {
+    font-weight: 600;
+    font-size: 1.5em;
+}
+
+#organization {
+    font-size: 1.25em;
+}
+
+#date {
+    font-weight: 400;
+    font-style: italic;
+    font-size: 1em;
+    margin-top: 2px;
+    margin-bottom: 0px;
+    margin-left: 0px;
+    margin-right: 0px;
+}
+
+#degrees {
+    font-size: 1em;
+    margin-top: 5px;
+    margin-bottom: 0px;
+    margin-left: 0px;
+    margin-right: 0px;
+}
+
+#do {
+    margin-top: 5px;
+    margin-bottom: 0px;
+    margin-left: 0px;
+    margin-right: 0px;
+}
+
+#title {
+    color:#33485e;
+    text-transform: uppercase;
+    font-size: 1.5em;
+    font-weight: 600;
+    text-align: center;
+    margin-top: 20px;
+    margin-bottom: 0px;
+    margin-left: 0px;
+    margin-right: 0px;
+}
+
+.top {
+    width: 60%;
+    min-width: 300px;
+    margin:0 auto;
+    margin-bottom: 30px;
+}
