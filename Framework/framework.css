@@ -1,0 +1,28 @@
+#container {
+    width: 100%;
+    max-width: 1200px;
+    margin: 0 auto;
+    padding-bottom: 50px;
+}
+
+#headline {
+    text-align: center;
+}
+
+#byline {
+    text-align: center;
+    font-size: smaller;
+}
+
+#photo1 {
+    height: 350px;
+    width: 350px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#phototext {
+    text-align: center;
+    font-size: small;
+}
