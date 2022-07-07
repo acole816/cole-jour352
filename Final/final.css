@@ -9,24 +9,80 @@
     text-align: center;
 }
 
+.text {
+    font-size: 16.5px;
+    font-family: 'Source Sans Pro', sans-serif;
+}
+
 #byline {
-    font-size: smaller;
+    font-size: 12px;
     margin: 0;
 }
 
-#photo1 {
-    height: 350px;
-    width: 350px;
+#image1 {
+   padding-top: 37.5px;
+}
+
+#image2 {
     display: block;
-    margin-left: auto;
     margin-right: auto;
+    margin-left: auto;
+    width: 50%;
+    padding-bottom: 20px;
 }
 
-#phototext {
-    text-align: center;
-    font-size: small;
+#image4 {
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
+    width: 50%;
+    padding-bottom: 20px;
 }
 
-#subheader {
-    padding-top: 10px;
+#image5 {
+    padding-top: 8.5px;
+}
+
+#firsttext {
+    padding-top: 29.5px;
+}
+
+#secondtext {
+    padding-top: 14px;
+}
+
+/*Inspired by: https://css-tricks.com/snippets/css/simple-and-nice-blockquote-styling/ */   
+blockquote {
+    background: #f9f9f9;
+    border-left: 15px solid #ccc;
+    margin: 1.5em 10px;
+    padding: 0.5em 10px;
+  }
+  
+  blockquote:before {
+    color: #ccc;
+    content: open-quote;
+    font-size: 5em;
+    line-height: .6em;
+    margin-right: 0.25em;
+    vertical-align: -0.4em;
+  }
+  
+  blockquote p {
+    display: inline;
+    font-size: 2em;
+    font-weight: bold;
+    font-family: 'Source Sans Pro', sans-serif;
+  }
+
+#posttltext {
+    padding-top: 50px;
+}
+
+#textthree {
+    padding-top: 20px;
+}
+
+#chart1 {
+    padding-top: 25px;
 }
